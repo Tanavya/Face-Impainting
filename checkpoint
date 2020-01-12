@@ -1,0 +1,2 @@
+model_checkpoint_path: "cvae-generative-weights"
+all_model_checkpoint_paths: "cvae-generative-weights"
